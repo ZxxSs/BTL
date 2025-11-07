@@ -1,3 +1,6 @@
+/*
+Code nhận/chuyển đổi âm thanh thành hình ảnh
+*/
 using System.Collections;
 using System.Security.Cryptography;
 using TMPro;
