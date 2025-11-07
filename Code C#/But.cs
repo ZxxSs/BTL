@@ -1,3 +1,6 @@
+/*
+Code làm chuyển màu nút sau khi bấm
+*/
 using UnityEngine;
 
 public class But : MonoBehaviour
